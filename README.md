@@ -21,12 +21,12 @@ thread arrives, whereupon all threads may proceed.
 Note that for this task you must only implement a simple barrier, not a reusable
 barrier. The barrier implemented must be deadlock free.
 
-#Instructions for running and compling
+# Instructions for running and compling
 
-*Run Terminal/CMD to directory of project
-*make file > to compile the java files
-*type - "java Barrier 5 5" to run test 
-*alternatively type run/run1/run2 to run test which have input values [5,5],[10,10],[15,15]
-*Delete .class files make > clean
+* Run Terminal/CMD to directory of project
+* Make file > to compile the java files
+* Type - "java Barrier 5 5" to run test 
+* Alternatively type run/run1/run2 to run test which have input values [5,5],[10,10],[15,15]
+* Delete .class files make > clean
 
 
