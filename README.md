@@ -1,7 +1,7 @@
-#CSC3002 OS Assignment Part I by Mholi Mncube MNCMHO001
+# CSC3002 OS Assignment Part I by Mholi Mncube MNCMHO001
 23/04/2019
 
-#Aim
+# Aim
 This assignment aims to give you experience in thread (and, by extension, process)
 synchronization using semaphores. In this project, you will write multithreaded
 programs in Java to solve three classic synchronization problems, using only
