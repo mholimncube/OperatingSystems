@@ -1,4 +1,5 @@
 
+
 // class to run barrier simulation
 public class BarrierTest {
 	public static void main(String[] args) {
